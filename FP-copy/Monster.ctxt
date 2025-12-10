@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=lantai
+comment1.target=Monster(int)
+comment2.params=lantai
+comment2.target=void\ scaleStats(int)
+comment3.params=target
+comment3.target=void\ serang(Unit)
+numComments=4

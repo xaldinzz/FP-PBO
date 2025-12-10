@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hero
+comment1.params=nama\ hp\ ac\ attackBonus\ mana
+comment1.target=Hero(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=newWeapon
+comment2.target=void\ equipWeapon(Weapon)
+comment3.params=
+comment3.target=int\ getDamageBonus()
+comment4.params=amount
+comment4.target=void\ gainXp(int)
+comment5.params=
+comment5.target=void\ levelUp()
+comment6.params=
+comment6.target=void\ pakaiPotion()
+comment7.params=
+comment7.target=void\ rest()
+comment8.params=target
+comment8.target=void\ specialSkill(Unit)
+numComments=9

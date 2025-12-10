@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mage
+comment1.params=nama
+comment1.target=Mage(java.lang.String)
+comment2.params=target
+comment2.target=void\ serang(Unit)
+comment3.params=target
+comment3.target=void\ specialSkill(Unit)
+numComments=4

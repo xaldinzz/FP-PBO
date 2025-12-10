@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Unit
+comment1.params=nama\ hp\ ac\ attackBonus
+comment1.target=Unit(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=
+comment4.target=int\ getHp()
+comment5.params=amount
+comment5.target=void\ heal(int)
+comment6.params=amount
+comment6.target=void\ restoreMana(int)
+comment7.params=target
+comment7.target=void\ serang(Unit)
+numComments=8
